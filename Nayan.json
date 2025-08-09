@@ -17,19 +17,14 @@
     "100000959749712"
   ],
   "ADMINBOT": [
-    "",
     "100090445581185",
-    "61576554697089"
+    "100090445581185"
   ],
   "OWNER": ["100000959749712"], 
-  
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
   "notice": "dont cng author name and owner uid. otherwise bot not working",
-  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
-}
- not working",
   "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
 }
